@@ -27,4 +27,4 @@ Para login no airflow utilize as credenciais:
 
 A imagem abaixo compõe a arquitetura pedida no Case 1:
 
-![arquitetura](Case%20Grupo%20Botica%CC%81rio%204afc50def8044b8489218ac29a79fd05/Untitled.png)
+![arquitetura](arquitetura.png)
