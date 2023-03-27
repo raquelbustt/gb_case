@@ -1,0 +1,270 @@
+[2023-03-27T19:40:10.212+0000] {processor.py:153} INFO - Started process (PID=280) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:40:10.215+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:40:10.220+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:10.219+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:40:12.491+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:40:13.078+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:13.078+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:tables_gb_dag
+[2023-03-27T19:40:13.113+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:13.112+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:tables_gb_dag
+[2023-03-27T19:40:13.141+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:13.141+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:tables_gb_dag
+[2023-03-27T19:40:13.145+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:13.143+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:40:13.206+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:13.203+0000] {dag.py:2714} INFO - Creating ORM DAG for tables_gb_dag
+[2023-03-27T19:40:13.277+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:13.276+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:40:13.343+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 3.139 seconds
+[2023-03-27T19:40:43.491+0000] {processor.py:153} INFO - Started process (PID=296) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:40:43.495+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:40:43.500+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:43.499+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:40:46.519+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:40:46.881+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:46.879+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:40:47.126+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:47.125+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:40:47.245+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 3.763 seconds
+[2023-03-27T19:41:17.756+0000] {processor.py:153} INFO - Started process (PID=312) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:41:17.759+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:41:17.764+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:17.764+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:41:20.016+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:41:20.372+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:20.369+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:41:20.503+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:20.502+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:41:20.591+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.845 seconds
+[2023-03-27T19:41:51.081+0000] {processor.py:153} INFO - Started process (PID=328) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:41:51.087+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:41:51.091+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:51.090+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:41:53.206+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:41:53.552+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:53.550+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:41:53.683+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:53.682+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:41:53.775+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.709 seconds
+[2023-03-27T19:42:23.929+0000] {processor.py:153} INFO - Started process (PID=344) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:42:23.933+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:42:23.936+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:23.935+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:42:25.840+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:42:26.161+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:26.159+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:42:26.284+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:26.283+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:42:26.373+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.452 seconds
+[2023-03-27T19:42:56.682+0000] {processor.py:153} INFO - Started process (PID=360) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:42:56.685+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:42:56.687+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:56.687+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:42:58.555+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:42:58.887+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:58.885+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:42:59.010+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:59.008+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:42:59.097+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.422 seconds
+[2023-03-27T19:43:29.459+0000] {processor.py:153} INFO - Started process (PID=376) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:43:29.463+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:43:29.467+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:43:29.466+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:43:31.409+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:43:31.737+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:43:31.735+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:43:31.868+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:43:31.867+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:43:31.957+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.510 seconds
+[2023-03-27T19:44:02.367+0000] {processor.py:153} INFO - Started process (PID=392) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:44:02.370+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:44:02.373+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:02.373+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:44:04.368+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:44:04.721+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:04.718+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:44:04.860+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:04.859+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:44:04.983+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.624 seconds
+[2023-03-27T19:44:35.335+0000] {processor.py:153} INFO - Started process (PID=408) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:44:35.339+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:44:35.342+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:35.342+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:44:37.219+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:44:37.521+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:37.518+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:44:37.634+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:37.634+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:44:37.712+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.390 seconds
+[2023-03-27T19:45:08.062+0000] {processor.py:153} INFO - Started process (PID=424) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:45:08.065+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:45:08.069+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:08.069+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:45:09.965+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:45:10.267+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:10.265+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:45:10.380+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:10.380+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:45:10.453+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.404 seconds
+[2023-03-27T19:45:40.742+0000] {processor.py:153} INFO - Started process (PID=440) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:45:40.745+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:45:40.750+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:40.750+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:45:42.720+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:45:43.044+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:43.041+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:45:43.176+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:43.175+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:45:43.299+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.569 seconds
+[2023-03-27T19:46:13.506+0000] {processor.py:153} INFO - Started process (PID=456) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:46:13.509+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:46:13.512+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:13.511+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:46:15.458+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:46:15.762+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:15.760+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:46:15.880+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:15.879+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:46:15.962+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.464 seconds
+[2023-03-27T19:46:46.276+0000] {processor.py:153} INFO - Started process (PID=472) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:46:46.279+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:46:46.281+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:46.281+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:46:48.139+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:46:48.480+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:48.478+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:46:48.600+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:48.599+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:46:48.704+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.435 seconds
+[2023-03-27T19:47:19.047+0000] {processor.py:153} INFO - Started process (PID=488) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:47:19.050+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:47:19.055+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:19.054+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:47:20.975+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:47:21.270+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:21.268+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:47:21.388+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:21.387+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:47:21.464+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.430 seconds
+[2023-03-27T19:47:51.750+0000] {processor.py:153} INFO - Started process (PID=504) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:47:51.753+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:47:51.756+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:51.755+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:47:53.629+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:47:53.926+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:53.924+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:47:54.036+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:54.036+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:47:54.111+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.369 seconds
+[2023-03-27T19:48:24.544+0000] {processor.py:153} INFO - Started process (PID=520) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:48:24.548+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:48:24.552+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:24.551+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:48:26.447+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:48:26.747+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:26.745+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:48:26.858+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:26.857+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:48:26.946+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.414 seconds
+[2023-03-27T19:48:57.365+0000] {processor.py:153} INFO - Started process (PID=536) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:48:57.369+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:48:57.373+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:57.372+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:48:59.235+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:48:59.559+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:59.556+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:48:59.682+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:59.681+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:48:59.758+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.376 seconds
+[2023-03-27T19:49:29.991+0000] {processor.py:153} INFO - Started process (PID=552) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:49:29.994+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:49:29.998+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:49:29.997+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:49:31.859+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:49:32.162+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:49:32.160+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:49:32.274+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:49:32.273+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:49:32.346+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.364 seconds
+[2023-03-27T19:50:02.974+0000] {processor.py:153} INFO - Started process (PID=568) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:50:02.978+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:50:02.984+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:02.983+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:50:04.982+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:50:05.291+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:05.289+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:50:05.404+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:05.403+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:50:05.523+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.561 seconds
+[2023-03-27T19:50:35.960+0000] {processor.py:153} INFO - Started process (PID=584) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:50:35.964+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:50:35.968+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:35.968+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:50:37.903+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:50:38.198+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:38.196+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:50:38.310+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:38.310+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:50:38.383+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.436 seconds
+[2023-03-27T19:51:08.481+0000] {processor.py:153} INFO - Started process (PID=600) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:51:08.484+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:51:08.487+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:08.486+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:51:10.399+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:51:10.688+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:10.686+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:51:10.806+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:10.806+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:51:10.891+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.418 seconds
+[2023-03-27T19:51:40.998+0000] {processor.py:153} INFO - Started process (PID=616) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:51:41.003+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:51:41.007+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:41.007+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:51:43.482+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:51:43.789+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:43.787+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:51:43.902+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:43.901+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:51:43.978+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.988 seconds
+[2023-03-27T19:52:12.319+0000] {processor.py:153} INFO - Started process (PID=632) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:52:12.322+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:52:12.326+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:12.325+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:52:14.378+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:52:14.677+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:14.675+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:52:14.791+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:14.791+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:52:14.876+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.571 seconds
+[2023-03-27T19:52:45.479+0000] {processor.py:153} INFO - Started process (PID=648) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:52:45.483+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:52:45.487+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:45.487+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:52:47.378+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:52:47.732+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:47.730+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:52:47.865+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:47.864+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:52:47.950+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.481 seconds
+[2023-03-27T19:53:18.551+0000] {processor.py:153} INFO - Started process (PID=664) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:53:18.555+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:53:18.558+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:18.557+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:53:20.434+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:53:20.743+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:20.741+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:53:20.859+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:20.859+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:53:20.935+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.393 seconds
+[2023-03-27T19:53:42.728+0000] {processor.py:153} INFO - Started process (PID=670) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:53:42.732+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:53:42.736+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:42.735+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:53:44.669+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:44.657+0000] {dagbag.py:341} ERROR - Failed to import: /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 337, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/dag_extraction_tables_gb.py", line 8, in <module>
+    'start_date': datetime.today(),
+NameError: name 'dates' is not defined
+[2023-03-27T19:53:44.676+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:53:44.800+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.080 seconds
+[2023-03-27T19:54:15.076+0000] {processor.py:153} INFO - Started process (PID=686) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:54:15.078+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:54:15.082+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:15.082+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:54:17.018+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:54:17.340+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:17.338+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:54:17.457+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:17.456+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:54:17.542+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.474 seconds
+[2023-03-27T19:54:47.916+0000] {processor.py:153} INFO - Started process (PID=702) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:54:47.920+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:54:47.923+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:47.922+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:54:49.853+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:54:50.156+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:50.154+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:54:50.268+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:50.267+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:54:50.343+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.434 seconds
+[2023-03-27T19:55:20.537+0000] {processor.py:153} INFO - Started process (PID=718) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:55:20.541+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:55:20.545+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:20.544+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:55:22.512+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:55:22.827+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:22.825+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:55:22.961+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:22.960+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:55:23.056+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.527 seconds
+[2023-03-27T19:55:53.503+0000] {processor.py:153} INFO - Started process (PID=734) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:55:53.506+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:55:53.509+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:53.509+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:55:55.467+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:55:55.819+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:55.816+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:55:55.955+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:55.954+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:55:56.060+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.564 seconds
+[2023-03-27T19:56:26.385+0000] {processor.py:153} INFO - Started process (PID=750) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:56:26.388+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:56:26.392+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:56:26.391+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:56:28.338+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:56:28.651+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:56:28.649+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:56:28.769+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:56:28.768+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:56:28.844+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.469 seconds
+[2023-03-27T19:56:59.198+0000] {processor.py:153} INFO - Started process (PID=766) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:56:59.202+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:56:59.205+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:56:59.204+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:01.137+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:01.461+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:01.459+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:57:01.581+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:01.580+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:57:01.657+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.466 seconds
+[2023-03-27T19:57:07.102+0000] {processor.py:153} INFO - Started process (PID=779) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:07.105+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:57:07.108+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:07.108+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:09.162+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:09.272+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:09.270+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:57:09.402+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:09.401+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:57:09.486+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.397 seconds
+[2023-03-27T19:57:10.540+0000] {processor.py:153} INFO - Started process (PID=782) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:10.545+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:57:10.549+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:10.548+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:12.500+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:12.595+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:12.593+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:57:12.730+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:12.729+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:57:12.817+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.284 seconds
+[2023-03-27T19:57:17.706+0000] {processor.py:153} INFO - Started process (PID=785) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:17.710+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:57:17.716+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:17.715+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:19.714+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:19.829+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:19.826+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:57:19.983+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:19.982+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-28T01:00:00+00:00, run_after=2023-03-29T01:00:00+00:00
+[2023-03-27T19:57:20.073+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.380 seconds
+[2023-03-27T19:57:23.029+0000] {processor.py:153} INFO - Started process (PID=791) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:23.035+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:57:23.045+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:23.045+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:25.217+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:25.307+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:25.304+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:57:25.427+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:25.426+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-27T01:00:00+00:00, run_after=2023-03-28T01:00:00+00:00
+[2023-03-27T19:57:25.508+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.487 seconds
+[2023-03-27T19:57:55.987+0000] {processor.py:153} INFO - Started process (PID=810) to work on /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:55.996+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py for tasks to queue
+[2023-03-27T19:57:56.002+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:56.001+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:57.984+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tables_gb_dag']) retrieved from /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py
+[2023-03-27T19:57:58.280+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:58.278+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-03-27T19:57:58.392+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:58.391+0000] {dag.py:3440} INFO - Setting next_dagrun for tables_gb_dag to 2023-03-27T01:00:00+00:00, run_after=2023-03-28T01:00:00+00:00
+[2023-03-27T19:57:58.466+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/dag_extraction_tables_gb.py took 2.490 seconds

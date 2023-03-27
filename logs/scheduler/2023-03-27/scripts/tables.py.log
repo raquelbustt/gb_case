@@ -1,0 +1,165 @@
+[2023-03-27T19:40:05.095+0000] {processor.py:153} INFO - Started process (PID=270) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:40:05.100+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:40:05.107+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:05.106+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:40:09.361+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:40:09.589+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 4.508 seconds
+[2023-03-27T19:40:40.510+0000] {processor.py:153} INFO - Started process (PID=286) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:40:40.514+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:40:40.518+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:40:40.518+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:40:42.648+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:40:42.740+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.239 seconds
+[2023-03-27T19:41:13.710+0000] {processor.py:153} INFO - Started process (PID=302) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:41:13.714+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:41:13.718+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:13.717+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:41:15.701+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:41:15.794+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.097 seconds
+[2023-03-27T19:41:46.535+0000] {processor.py:153} INFO - Started process (PID=318) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:41:46.540+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:41:46.545+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:41:46.544+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:41:48.667+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:41:48.778+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.259 seconds
+[2023-03-27T19:42:19.629+0000] {processor.py:153} INFO - Started process (PID=334) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:42:19.632+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:42:19.636+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:19.635+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:42:21.587+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:42:21.678+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.059 seconds
+[2023-03-27T19:42:52.389+0000] {processor.py:153} INFO - Started process (PID=350) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:42:52.393+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:42:52.396+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:42:52.395+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:42:54.351+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:42:54.444+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.064 seconds
+[2023-03-27T19:43:25.124+0000] {processor.py:153} INFO - Started process (PID=366) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:43:25.128+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:43:25.131+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:43:25.131+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:43:27.059+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:43:27.154+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.040 seconds
+[2023-03-27T19:43:57.999+0000] {processor.py:153} INFO - Started process (PID=382) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:43:58.002+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:43:58.006+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:43:58.005+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:44:00.016+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:44:00.109+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.120 seconds
+[2023-03-27T19:44:30.321+0000] {processor.py:153} INFO - Started process (PID=398) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:44:30.325+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:44:30.330+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:44:30.329+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:44:32.324+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:44:32.416+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.108 seconds
+[2023-03-27T19:45:03.330+0000] {processor.py:153} INFO - Started process (PID=414) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:45:03.333+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:45:03.336+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:03.336+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:45:05.279+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:45:05.400+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.080 seconds
+[2023-03-27T19:45:36.393+0000] {processor.py:153} INFO - Started process (PID=430) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:45:36.396+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:45:36.399+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:45:36.399+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:45:38.338+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:45:38.438+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.054 seconds
+[2023-03-27T19:46:09.129+0000] {processor.py:153} INFO - Started process (PID=446) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:46:09.134+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:46:09.140+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:09.139+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:46:11.151+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:46:11.247+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.131 seconds
+[2023-03-27T19:46:41.973+0000] {processor.py:153} INFO - Started process (PID=462) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:46:41.978+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:46:41.981+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:46:41.980+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:46:43.929+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:46:44.027+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.064 seconds
+[2023-03-27T19:47:14.323+0000] {processor.py:153} INFO - Started process (PID=478) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:47:14.327+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:47:14.331+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:14.330+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:47:16.237+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:47:16.328+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.016 seconds
+[2023-03-27T19:47:46.458+0000] {processor.py:153} INFO - Started process (PID=494) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:47:46.462+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:47:46.466+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:47:46.466+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:47:48.396+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:47:48.490+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.045 seconds
+[2023-03-27T19:48:19.133+0000] {processor.py:153} INFO - Started process (PID=510) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:48:19.138+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:48:19.143+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:19.142+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:48:21.107+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:48:21.252+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.142 seconds
+[2023-03-27T19:48:51.502+0000] {processor.py:153} INFO - Started process (PID=526) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:48:51.505+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:48:51.508+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:48:51.508+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:48:53.469+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:48:53.567+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.073 seconds
+[2023-03-27T19:49:24.162+0000] {processor.py:153} INFO - Started process (PID=542) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:49:24.165+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:49:24.169+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:49:24.168+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:49:26.166+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:49:26.256+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.102 seconds
+[2023-03-27T19:49:56.482+0000] {processor.py:153} INFO - Started process (PID=558) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:49:56.487+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:49:56.490+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:49:56.489+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:49:58.500+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:49:58.594+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.121 seconds
+[2023-03-27T19:50:29.016+0000] {processor.py:153} INFO - Started process (PID=574) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:50:29.020+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:50:29.025+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:50:29.024+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:50:30.962+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:50:31.055+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.054 seconds
+[2023-03-27T19:51:01.739+0000] {processor.py:153} INFO - Started process (PID=590) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:51:01.743+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:51:01.747+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:01.746+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:51:03.677+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:51:03.769+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.038 seconds
+[2023-03-27T19:51:33.956+0000] {processor.py:153} INFO - Started process (PID=606) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:51:33.960+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:51:33.964+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:51:33.963+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:51:36.018+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:51:36.122+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.177 seconds
+[2023-03-27T19:52:07.040+0000] {processor.py:153} INFO - Started process (PID=622) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:52:07.046+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:52:07.053+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:07.052+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:52:09.829+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:52:09.958+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.931 seconds
+[2023-03-27T19:52:40.674+0000] {processor.py:153} INFO - Started process (PID=638) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:52:40.678+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:52:40.683+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:52:40.682+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:52:42.998+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:52:43.136+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.475 seconds
+[2023-03-27T19:53:13.881+0000] {processor.py:153} INFO - Started process (PID=654) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:53:13.886+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:53:13.890+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:13.890+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:53:16.185+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:53:16.277+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.407 seconds
+[2023-03-27T19:53:46.828+0000] {processor.py:153} INFO - Started process (PID=673) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:53:46.831+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:53:46.834+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:53:46.833+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:53:49.072+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:53:49.235+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.417 seconds
+[2023-03-27T19:54:19.624+0000] {processor.py:153} INFO - Started process (PID=689) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:54:19.628+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:54:19.633+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:19.632+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:54:21.702+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:54:21.791+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.178 seconds
+[2023-03-27T19:54:52.076+0000] {processor.py:153} INFO - Started process (PID=705) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:54:52.080+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:54:52.084+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:54:52.083+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:54:54.108+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:54:54.233+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.168 seconds
+[2023-03-27T19:55:24.614+0000] {processor.py:153} INFO - Started process (PID=721) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:55:24.618+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:55:24.622+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:24.622+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:55:26.609+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:55:26.700+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.094 seconds
+[2023-03-27T19:55:56.995+0000] {processor.py:153} INFO - Started process (PID=737) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:55:56.998+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:55:57.002+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:55:57.001+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:55:58.954+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:55:59.069+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.083 seconds
+[2023-03-27T19:56:29.416+0000] {processor.py:153} INFO - Started process (PID=753) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:56:29.420+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:56:29.423+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:56:29.423+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:56:31.416+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:56:31.511+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.103 seconds
+[2023-03-27T19:57:01.713+0000] {processor.py:153} INFO - Started process (PID=769) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:57:01.716+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:57:01.719+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:01.718+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:57:03.695+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:57:03.790+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.087 seconds
+[2023-03-27T19:57:34.537+0000] {processor.py:153} INFO - Started process (PID=794) to work on /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:57:34.540+0000] {processor.py:743} INFO - Processing file /opt/bitnami/airflow/dags/scripts/tables.py for tasks to queue
+[2023-03-27T19:57:34.545+0000] {logging_mixin.py:137} INFO - [2023-03-27T19:57:34.545+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:57:36.584+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/scripts/tables.py
+[2023-03-27T19:57:36.679+0000] {processor.py:175} INFO - Processing /opt/bitnami/airflow/dags/scripts/tables.py took 2.151 seconds

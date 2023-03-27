@@ -4,9 +4,11 @@ from airflow.operators.python_operator import PythonOperator
 from scripts.podcast import table_5, table_6, table_7
 from scripts.conection import get_access_token
 
+start_date = datetime.now() - timedelta(days=1)
+
 default_args = {
     'owner': 'airflow',
-    'start_date': datetime.today(),
+    'start_date': start_date,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }

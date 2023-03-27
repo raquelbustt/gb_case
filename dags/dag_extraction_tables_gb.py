@@ -3,14 +3,16 @@ from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 import scripts.tables as t
 
+start_date = datetime.now() - timedelta(days=1)
+
 default_args = {
     'owner': 'airflow',
-    'start_date': datetime.today(),
+    'start_date': start_date,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }
 
-dag = DAG('tables_gb_dag', default_args=default_args, schedule_interval="0 01 * * *")
+dag = DAG('tables_gb_dag', default_args=default_args, schedule_interval="00 01 * * *")
 
 tasks = [
     ('vendas_ano_mes', t.vendas_ano_mes),
